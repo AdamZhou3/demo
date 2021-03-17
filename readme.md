@@ -25,4 +25,24 @@
         -   8.2 million short journeys by car that could potentially be cycled 
         -   参考 P12 引用数据 Analysis of Cycling Potential http://content.tfl.gov.uk/analysis-of-cycling-potential.pdf 
 -   需求预测
+<<<<<<< HEAD
 -   空间优化
+=======
+-   空间优化
+
+
+
+
+
+TODO:  
+
+-   [ ] 根据现有数据补充思路
+    -   [ ] 有用的数据字段属性
+    -   [ ] 提炼reports，完善文案，扩充思路
+    -   [ ] ppt
+-   [ ] 后两个部分已有思路但需要实验
+    -   [ ] API路网流
+    -   [ ] OD图
+    -   [ ] 选择小区域提出解法
+
+>>>>>>> e81e477... edit todos
